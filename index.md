@@ -8,6 +8,4 @@
 
 or can upload an image - add the images to repository and then use that link
 
-! [alt-text](https://github.com/lapalmer/hello-world/blob/gh-pages/tesla-cat.jpg)
-
 ![cat image](https://github.com/lapalmer/hello-world/blob/gh-pages/tesla-cat.jpg "cat image")
